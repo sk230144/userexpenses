@@ -189,7 +189,7 @@ Here are some example test cases you can use to verify the functionality of the 
 
 ## Feedback and Support
 
-If you have any questions, feedback, or issues, please feel free to reach out to the development team at [support@expensesplitting.com](mailto:support@expensesplitting.com).
+If you have any questions, feedback, or issues, please feel free to reach out to me at [risabht043@gmail.com](mailto:risabht043@gmail.com).
 
 Happy expense splitting!
 ```
