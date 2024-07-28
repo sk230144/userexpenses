@@ -15,7 +15,7 @@ This is an API for splitting expenses among users. It allows users to create exp
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/expense-splitting-api.git
+   git clone [https://github.com/sk230144/userexpenses.git](https://github.com/sk230144/userexpenses.git)
    ```
 
 2. Install the dependencies:
