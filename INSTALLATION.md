@@ -27,7 +27,7 @@ Certainly! To add a documentation file with setup and installation instructions 
 
    2. Navigate to the project directory:
       ```
-      cd expense-splitting-api
+      cd userexpense
       ```
 
    3. Install the dependencies:
@@ -63,16 +63,8 @@ Certainly! To add a documentation file with setup and installation instructions 
    - Ensure that you have replaced the `mongoURI` variable with your actual MongoDB connection URL.
    - Verify that you have run the `npm install` command to install all the necessary dependencies.
 
-   If the issue persists, please feel free to contact our support team at [support@expensesplitting.com](mailto:support@expensesplitting.com) for further assistance.
+   If the issue persists, please feel free to contact our support team at [risabht043@gmail.com](mailto:risabht043@gmail.com) for further assistance.
 
    ```
 
    Feel free to customize the content based on your specific project requirements and add any additional sections or instructions that you think would be helpful for users.
-
-4. Save the file.
-
-Now you have a documentation file named "SETUP.md" or "INSTALLATION.md" in your code folder that contains the setup and installation instructions for your project.
-
-You can also include this file in your version control system (e.g., Git) so that it can be easily accessed by other developers or users who want to set up and run your project.
-
-Remember to keep the documentation up to date as your project evolves, and consider adding more sections or files to cover different aspects of your project, such as usage guidelines, API documentation, or troubleshooting tips.
